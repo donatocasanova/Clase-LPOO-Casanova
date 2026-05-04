@@ -1,7 +1,7 @@
 /*1Carpeta:
 Cálculo de espacios:
-Si el ancho (width) es 800 y cant es 10, ¿cuál es el valor de la variable sepx?
-Si cambiamos cant a 20, ¿qué ocurre con el valor de sepx y qué efecto visual tendría en el dibujo?
+Si el ancho (width) es 800 y cant es 10, sepx=80
+Si cambiamos cant a 20, spex=40 ,al aumentar cantm sepx se hace más chico entonces hay más líneas y más juntas
 Seguimiento de coordenadas:
 
 
