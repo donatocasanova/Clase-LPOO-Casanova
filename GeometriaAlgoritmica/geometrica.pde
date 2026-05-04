@@ -1,7 +1,7 @@
 /*1Carpeta:
 Cálculo de espacios:
 Si el ancho (width) es 800 y cant es 10, sepx=80
-Si cambiamos cant a 20, spex=40 ,al aumentar cantm sepx se hace más chico entonces hay más líneas y más juntas
+Si cambiamos cant a 20, sepx=40 ,al aumentar cant  sepx se hace más chico entonces hay más líneas y estan mas juntas
 Seguimiento de coordenadas:
 
 
